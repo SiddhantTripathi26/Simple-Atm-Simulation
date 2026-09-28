@@ -1,0 +1,18 @@
+#Prevents compiled bytecode and local environment files from cluttering the public repository.
+
+Code snippet
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
